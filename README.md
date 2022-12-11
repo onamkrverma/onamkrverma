@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onam Kumar Verma</h1>
-<h3 align="center">A frontend developer, Passionate about MERN Stack development from India</h3>
+<h3 align="center">A frontend developer, Passionate about Full Stack development from India</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onamkrverma&label=Profile%20views&color=0e75b6&style=flat" alt="onamkrverma" /> </p>
