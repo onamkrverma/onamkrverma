@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onamkrverma&label=Profile%20views&color=0e75b6&style=flat" alt="onamkrverma" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
-
+- 👯 I’m looking to collaborate on **Any Javascript,React js projects**
 - 👨‍💻 Know more about me 👉 My porfolio is available at [https://onam.netlify.app/](https://onam.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
