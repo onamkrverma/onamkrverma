@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **MERN stack**
 - 👯 I’m looking to collaborate on **Any Javascript,React js projects**
-- 👨‍💻 Know more about me 👉 My porfolio is available at [https://onam.netlify.app/](https://onam.netlify.app/)
+- 👨‍💻 For further information, please refer to my [Portfolio](https://onam.vercel.app/) 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
